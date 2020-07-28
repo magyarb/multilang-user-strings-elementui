@@ -1,0 +1,19 @@
+{
+  "title": "Többnyelvű felhasználói stringek",
+  "locale-hu": "Magyar",
+  "locale-en": "Angol",
+  "locale-de": "Német",
+  "add-language": "Nyelv hozzáadása",
+  "language": "Nyelv",
+  "edit-translation": "A fordítás szerkesztése",
+  "cancel": "Mégsem",
+  "card-title": "Kártya címe",
+  "description": "Leírás",
+  "edit": "Szerkesztés",
+  "edit-card": "Kártya szerkesztése",
+  "save": "Mentés",
+  "make-default": "Legyen alapértelmezett",
+  "remove": "Vegye ki",
+  "this-is-the-default-language": "Ez az alapértelmezett nyelv",
+  "add-card": "Kártya hozzáadása"
+}

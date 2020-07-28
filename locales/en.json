@@ -1,0 +1,19 @@
+{
+  "title": "Multilanguage user strings",
+  "locale-hu": "Hungarian",
+  "locale-en": "English",
+  "locale-de": "German",
+  "add-language": "Add language",
+  "language": "Language",
+  "edit-translation": "Edit translation",
+  "save": "Save",
+  "cancel": "Cancel",
+  "edit-card": "Edit card",
+  "description": "Description",
+  "edit": "Edit",
+  "card-title": "Card title",
+  "this-is-the-default-language": "This is the default language",
+  "make-default": "Make default",
+  "remove": "Remove",
+  "add-card": "Add card"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Mehrsprachig benutzer stringe",
+  "locale-hu": "Ungarisch",
+  "locale-en": "Englisch",
+  "locale-de": "Deutsch",
+  "add-language": "Sprache hinzufügen",
+  "language": "Sprache",
+  "edit-translation": "Übersetzung bearbeiten",
+  "cancel": "Stornieren",
+  "card-title": "Kartentitel",
+  "description": "Beschreibung",
+  "edit": "Bearbeiten",
+  "edit-card": "Karte bearbeiten",
+  "save": "Sparen",
+  "make-default": "Machen Standard",
+  "remove": "Entfernen",
+  "this-is-the-default-language": "Dies ist die Standardsprache",
+  "add-card": "Karte hinzufügen"
+}
