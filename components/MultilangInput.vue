@@ -190,6 +190,9 @@ export default {
     },
     removeLang(lang) {
       Vue.delete(this.editedObject, lang);
+      this.langToAdd = this.$i18n.availableLocales.filter(
+        (l) => !Object.keys(this.editedObject).includes(l)
+      )[0];
     },
   },
 };
