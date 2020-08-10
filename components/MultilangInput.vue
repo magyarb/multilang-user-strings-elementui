@@ -154,6 +154,16 @@ export default {
         this.$emit("input", Object.assign(this.value, edited));
       }
     },
+    change(text) {
+      //fire the change event
+      if (typeof this.value === "string" || this.value === null) {
+        //edit as string
+        this.$emit("change", text);
+      } else if (typeof this.value === "object") {
+        //edit the object
+        this.$emit("change", this.value);
+      }
+    },
     multilangEditor() {
       if (typeof this.value === "string" || this.value === null) {
         //convert to object
